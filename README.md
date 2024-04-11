@@ -8,19 +8,19 @@ Esta aplicación está diseñada para calcular distancias de una empresa de mane
 ![Menú para Loguearse](https://github.com/k-tw0/empresaDis/blob/master/Screenshot_20240411_175238.png)
 
 ### Menú para Registrarse (Básico)
-*(Captura de pantalla no disponible)*
+![Menú para Registrarsse](https://github.com/k-tw0/empresaDis/blob/master/Screenshot_20240411_175401.png)
 
 ### Menú Principal de Usuarios Logueados
-*(Captura de pantalla no disponible)*
+![Menú para Logueados](https://github.com/k-tw0/empresaDis/blob/master/Screenshot_20240411_175534.png)
 
 ### Lista de Menú de Categorías
-*(Captura de pantalla no disponible)*
+![Menú para Categorías](https://github.com/k-tw0/empresaDis/blob/master/Screenshot_20240411_175603.png)
 
 ### Vista con un Campo para Calcular Cantidad y Ver el Precio Total de Ítems
-*(Captura de pantalla no disponible)*
+![Vista precios](https://github.com/k-tw0/empresaDis/blob/master/Screenshot_20240411_175619.png)
 
 ### Vista para Calcular Distancias desde un Punto a Otro Utilizando los Puntos de Geolocalización del GPS
-*(Captura de pantalla no disponible)*
+![Vista Localizacion](https://github.com/k-tw0/empresaDis/blob/master/Screenshot_20240411_175644.png)
 
 ## Descripción
 
